@@ -10,7 +10,6 @@ def find_even_values(src)
        end   
         
        element_index +=1  
-       end 
      
      end 
      row_index += 1 
