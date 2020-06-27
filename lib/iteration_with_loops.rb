@@ -5,6 +5,8 @@ def find_even_values(src)
     element_index = 0 
     while element_index < src[row_index].count do 
      if src[row_index][element_index] % == 0 
+       p src[row_index][element_index]
+     else 
 
 
 end
